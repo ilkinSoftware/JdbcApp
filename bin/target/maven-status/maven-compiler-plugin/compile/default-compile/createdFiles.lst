@@ -1,0 +1,14 @@
+com\mycompany\userdao\impl\UserDAOImpl.class
+com\mycompany\userdao\inter\UserDaoInter.class
+com\mycompany\entity\EmploymentHistory.class
+com\mycompany\main\Main.class
+com\mycompany\entity\Country.class
+com\mycompany\entity\UserSkill.class
+com\mycompany\userdao\inter\AbstractDAO.class
+com\mycompany\main\Context.class
+com\mycompany\userdao\inter\UserSkillDaoInter.class
+com\mycompany\userdao\impl\EmploymentHistoryDaoImpl.class
+com\mycompany\entity\User.class
+com\mycompany\entity\Skill.class
+com\mycompany\userdao\impl\UserSkillDaoImpl.class
+com\mycompany\userdao\inter\EmploymentHistoryDaoInter.class
